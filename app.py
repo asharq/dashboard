@@ -84,7 +84,7 @@ if uploaded_cantaloupe and uploaded_kiosoft_card and uploaded_kiosoft_coin:
 
     # Render Flat Data Download
     st.download_button(
-        label="Download Detailed Flat Data for Pivot Table",
+        label="Download Enhanced Detailed Flat Data for Pivot Table",
         data=flat_csv_data,
         file_name="enhanced_sales_data.csv",
         mime="text/csv"
