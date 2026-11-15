@@ -1,5 +1,11 @@
 # Design principles we use
 
+## House rules (from Ashar + Huda, Nov 15)
+- **Organizers:** natural bamboo in drawers and anything hidden (start with the big-utensil drawer D2); clear acrylic in upper cabinets (keep what we own); glass jars optional.
+- **Fewer, bigger things.** Small knick-knacks stress us out. If a small object has no job, it leaves the room.
+- **Palette:** beige/cream base, green from real plants, rust accents, one chocolate-brown throw. Nothing else.
+- **Make the call.** Don't just restyle what's there: decide where each piece of furniture goes, what leaves the room, and what (little) to buy. Present it as a to-scale plan with numbered Keep / Move / Leaves / Buy decisions.
+
 ## Single source of truth (non-negotiable)
 The Plan (`planos` in the app DB) lists, per surface, the exact catalog item IDs that go there. Every render, board, lookbook page and slideshow uses only those items, passed as reference images. Never invent decor or swap an object between shots. If a surface changes, change the Plan first, then re-render.
 

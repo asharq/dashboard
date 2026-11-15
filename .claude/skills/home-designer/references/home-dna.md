@@ -8,8 +8,11 @@ Gideon floor plan, The Fields (Milpitas), **mirrored left-to-right** for our uni
 ## Finishes we can't change
 Dark gray vinyl plank floors; beige carpet in bedrooms; warm-white walls; white flat-panel kitchen with gray subway backsplash, white speckled quartz; black cone pendants; stainless appliances; white bath vanity with long chrome pulls; white subway tub surround.
 
-## Palette (60/30/10)
-Oatmeal #E9E1D3 · Taupe #9D8B7D · Walnut #5C3B25 · Brass #C8A24A · Olive #6B7F4E · Terracotta #C47A5A (accent) · Blush #E8C4B8 (from the botanical prints).
+## Palette
+Oatmeal #E9E1D3 · Beige #C9B8A3 · Taupe #9D8B7D (base) · Olive green #6B7F4E (plants) · Rust #A9542F (accents) · Chocolate #4A3022 (one throw) · Brass #C8A24A (existing metal).
+
+## Living room decisions (approved direction)
+Sectional on the long wall; rug centered; coffee table centered on the TV; cream chair turned 15° to the sofa; taupe ottoman at the coffee table's window side (girls' seat); one arc lamp + one tripod table lamp (linen-drum floor lamp → girls' room); TV console = one collage + pampas + books, soundbar alone; add 2 rust velvet pillows, rust lumbar, chocolate knit throw (Costco); fig hides the purifier; olive tree frames the window.
 
 ## Hero anchors (keep, build around)
 Taupe L-sectional; four botanical prints; cream rug; gold-and-glass coffee + side tables; walnut waterfall console under the "Ashar & Huda" Quran 30:21 calligraphy (most meaningful piece); floating oak media console; round wood mirror (entry); cream bouclé stools; Ninja espresso machine (green/gold); fiddle fig + olive tree; framed Game Boy + iPhone; digital photo frame.
