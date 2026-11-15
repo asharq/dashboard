@@ -1,5 +1,11 @@
 # Design principles we use
 
+## Single source of truth (non-negotiable)
+The Plan (`planos` in the app DB) lists, per surface, the exact catalog item IDs that go there. Every render, board, lookbook page and slideshow uses only those items, passed as reference images. Never invent decor or swap an object between shots. If a surface changes, change the Plan first, then re-render.
+
+## Be bold, not conservative
+Design as if anything can be removed. Start each surface from empty and ask: what is functional here, and what is the single most beautiful thing we own for it? Re-assign objects across rooms freely (a sculpture can leave the island for the console). Subtraction is the biggest lever; staging is the second.
+
 ## Styling
 - Rule of three per surface: tall + medium + low, mixed textures. Odd numbers.
 - Every surface gets fewer, bigger, deliberate pieces. Small figurines either group into one collection or leave.

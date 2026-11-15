@@ -15,3 +15,6 @@ Room-specific styling list + this direction: "Restoration Hardware–level warm 
 
 ## Known limits
 Views through windows are invented. Small text (books, labels) may drift. Always label renders as AI previews.
+
+## TV presentation
+The app's Present mode (Today/Design → "Present on the TV", or open the app with #present) builds slides from `settings.visions` (room before/after), `settings.cabRenders` (cabinet interiors) and the 9-day path. Portrait photos are shown whole over a blurred fill for 16:9 screens.
