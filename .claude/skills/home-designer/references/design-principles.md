@@ -39,3 +39,14 @@ Knife block handles to the wall, chemicals locked (B4), meds top pantry shelf, m
 
 ## Step-by-step format
 One room a day, ≤60 minutes, start at the front door and walk the sightline. Each step = "take X → put it in Y". Check off in the app (Today → filters).
+
+## Kitchen zoning (functional, not tidying)
+Never just tidy a cabinet in place. First decide each cabinet's job by workflow, then move every item to its job:
+- Cook (by the range): D2 utensils + tongs, B2 everyday pots/pans/lids, U3 spices + Shan + ALL oils and vinegars.
+- Bake: U4 every baking ingredient, B3 mixing bowls + bakeware, I5 sheet pans/racks/cutting boards.
+- Serve (island, where we host): I6 Dutch oven, Le Creuset, cake dome, all serving bowls, chargers; U5 serving boards.
+- Dishes by the dishwasher: U7 all plates/bowls; D4 all flatware. Drinks: U8 glasses, mugs, coffee, tea, syrups, bottles.
+- Food: P1 snacks + breakfast, P2 rice/grains/bulk, D3 kids' treat drawer (low). Storage: U9 containers + lids, D7 wraps/bags/clips.
+- Health high: U10 meds, first aid, vitamins. Clean: B4 cleaning only (locked). Rarely used: U1 appliances, U2 party/seasonal.
+- Non-kitchen things leave the pantry (decor, crafts, hats, tools, fragrance).
+The item → cabinet map lives in `settings.kitchenPlan.home` (generator: `scripts/kitchen_zoning.py`); moves m40–m74 carry it out. Re-render each cabinet with "take everything out, then place exactly these items", passing reference photos of the items moving in.
