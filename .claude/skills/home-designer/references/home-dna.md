@@ -14,5 +14,8 @@ Oatmeal #E9E1D3 · Taupe #9D8B7D · Walnut #5C3B25 · Brass #C8A24A · Olive #6B
 ## Hero anchors (keep, build around)
 Taupe L-sectional; four botanical prints; cream rug; gold-and-glass coffee + side tables; walnut waterfall console under the "Ashar & Huda" Quran 30:21 calligraphy (most meaningful piece); floating oak media console; round wood mirror (entry); cream bouclé stools; Ninja espresso machine (green/gold); fiddle fig + olive tree; framed Game Boy + iPhone; digital photo frame.
 
-## Guests (Thanksgiving week, arrive Tue Nov 24, 4 nights)
+## Guests (arrive Tue Nov 24, 4 nights)
 Hamnah + Sahil (loves soccer) with Sophia (5, senior kindergarten) and Alisha (8). Girls don't use screens, love drawing. They sleep in Bedroom 2 (Pokémon room) and use Bath 2. Halal-friendly food; ask about allergies/breakfast.
+
+## Who we are + seasons
+We're Canadians living in the US, and Muslim. The guests are from Canada and already celebrated (Canadian) Thanksgiving. We enjoy the gathering but **don't eat turkey** and **don't do Christmas**. Theme the visit as a **winter gathering**: rustic warmth (rust, walnut, olive, brass), pomegranates, clementines, warm-white lights, a halal feast (biryani with Shan masala, lamb or butter chicken, gulab jamun). December decor should read seasonal and cozy, never Christmas. Ramadan 2027 begins around early February; plan a separate Ramadan/Eid look later.
