@@ -18,3 +18,9 @@ Views through windows are invented. Small text (books, labels) may drift. Always
 
 ## TV presentation
 The app's Present mode (Today/Design → "Present on the TV", or open the app with #present) builds slides from `settings.visions` (room before/after), `settings.cabRenders` (cabinet interiors) and the 9-day path. Portrait photos are shown whole over a blurred fill for 16:9 screens.
+
+## New angles without breaking the truth
+For "new angle" hero shots, pass the approved after renders (not the raw photos) as the reference images and say: "SINGLE SOURCE OF TRUTH: every object, finish and color must match the references; only the camera moves." Works well for overheads, close vignettes and straight-on wides. For "every door open" shots, pass the room photo first, then each cabinet's after render.
+
+## Where renders live in the app
+`settings.visions` (room before/after), `settings.cabRenders` (every cabinet), `settings.storyRenders` (arrival-day story), `settings.heroRenders` (new angles + every-door-open). The TV presentation (Present on the TV) reads all four, and narrates with the `tts` capability.
